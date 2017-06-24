@@ -1,23 +1,23 @@
 # Site settings
-email: 
+email: adalidnegro@gmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Trophy
-description: 
-url: ""
-twitter_username: 
-default_img: 
+title: Said's blog
+description: Blog personal de Said Fayad
+url: "said.rocks"
+twitter_username: Adalid_Negro 
+default_img: https://avatars0.githubusercontent.com/u/2597420?v=3&s=400
 
 # Profile settings
-name: 
-profile_img: 
+name: Said Fayad
+profile_img: https://avatars0.githubusercontent.com/u/2597420?v=3&s=400
 profile: 
 social:
-  github: 
+  github: AdalidNegro
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
