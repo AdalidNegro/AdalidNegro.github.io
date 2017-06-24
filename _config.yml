@@ -17,7 +17,18 @@ name: Said Fayad
 profile_img: https://avatars0.githubusercontent.com/u/2597420?v=3&s=400
 profile: 
 social:
+  email: adalidnegro@gmail.com
+  facebook: saeed-fayyad
+  flickr: 
   github: AdalidNegro
+  instagram:
+  linkedin: adalidnegro
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: Adalid_Negro
+  stackoverflow: users/3977303/adalid-negro # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: channel/UCR7WcVqtWRyxCt6CHSyV7xA # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
