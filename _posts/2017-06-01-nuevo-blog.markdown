@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "Craft Beer"
-date: 2016-02-19
+title: "Nuevo Blog
+date: 2017-06-01
 categories:
-  - Juice
+  - Personal
 description: 
-image: https://unsplash.it/2000/1200?image=1003
-image-sm: https://unsplash.it/500/300?image=1003
+image: https://unsplash.it/2000/1200?image=2
+image-sm: https://unsplash.it/500/300?image=2
 ---
-Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven't heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.
+Cada cierto tiempo dan ganas de nuevo de empezar a escribir para Internet, pero uno se pregunta, ¿quien carajos es Internet?. Acaso sea una bitacora de cosas que quiero tener a mano para recordar, pero ciertamente podria alguna cosa de las que hehecho aqui ser util para alguien mas en algun momento, y eso me hara sentir muy satisfecho, de no ser asi, quizas sea util para mi mismo en otra ocasion, cuando quizas necesite hacer algo que ya haya hecho en otro momento y pueda tenerlo aqui documentado, eso justificara mi tarea.
 
 <ul>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
+  <li>Escribire sobre politica y temas de actualidad que me interesen</li>
+  <li>Escribire sobre Debian y GNU/Linux en general</li>
+  <li>Escribire sobre tecnologia</li>
+  <li>Y pues cualquier otra cosa que se me ocurra</li>
 </ul>
 
 <ol>
@@ -28,7 +28,7 @@ Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos racle
 Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table <a href="#">street art</a> fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.
 
 <figure>
-  <img src="https://unsplash.it/2000/1200?image=1003" alt="Placeholder"/>
+  <img src="https://unsplash.it/2000/1200?image=2" alt="Nuevo Blog"/>
 </figure>
 
 Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.
@@ -42,7 +42,7 @@ Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-
 Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.
 
 <figure>
-  <img src="https://unsplash.it/2000/1200?image=1003" alt="Placeholder"/>
+  <img src="https://unsplash.it/2000/1200?image=2" alt="Placeholder"/>
   <figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>
 </figure>
 
