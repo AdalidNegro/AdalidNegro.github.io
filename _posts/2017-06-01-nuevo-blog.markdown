@@ -18,34 +18,32 @@ Cada cierto tiempo dan ganas de nuevo de empezar a escribir para Internet, pero 
 </ul>
 
 <ol>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
+  <li>Escribire alguna pieza creativa, quizas algun intento literario</li>
+  <li>Escribire mas de tecnologia aun, guias para hacer mi propio trabajo</li>
+  <li>Quizas algo de critica de cine, musica o literatura</li>
+  <li>Por que no algo de fotografia</li>
 </ol>
 
-<h3>Subway tile</h3>
-Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table <a href="#">street art</a> fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.
-
+<h3>¿Por que leerme?</h3>
+Sin duda, si en lago podria estar de acuerdo es que no hay ningun motivo valido para leerme, no estoy seguro de que lo que tenga que decir resulte ineteresante en absoluto, sin embargo, yo me leere y quizas algun desocupado vagando en las anchas aguas de internet, quizas alguna persona con alguna duda tecnica que casualmente yo haya logrado resolver... en fin
 <figure>
   <img src="https://unsplash.it/2000/1200?image=2" alt="Nuevo Blog"/>
 </figure>
 
-Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.
+Yo escribire, no para ser leido sino como un ejercicio consciente de trazabilidad en mi propia vida, quizas escriba un articulo sobre un tema tecnico y quien lo lea encontrara alli alguna informacion util quizas para resolver un problema similar, probablemente yo al leerme me acordare de mi situacion de vida en el momento de escribir cada una de esas lineas, asi que de cierto modo esto sera mi historia de vida.
 
 <blockquote>
-  Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's.
-  <cite>Man braid</cite>
+  Si hubiera preguntado a mis clientes qué es lo que necesitaban, me hubieran dicho que un caballo más rápido
+  <cite>Henry Ford</cite>
 </blockquote>
 
-<h4>Subway tile</h4>
-Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.
-
+<h4>¿Quien escribe esto?</h4>
+Mi nombre es Said Fayad, trabajo actualmente como Gestor de configuraciones en una multinacional llamada Stefanini, me han gustado en la vida algunas cosas, entre ellas las mujeres, GNU/Linux, los sistemas, el desarrollo de software, los videojuegos, las mujeres, el ciclismo, el tenis, la literatura, las mujeres, el cine, la politica, la musica, la guitarra, las mujeres, nadar, la buena comida, la mala a ratos tambien, el anime, las series y quizas se me olvida algo...
 <figure>
   <img src="https://unsplash.it/2000/1200?image=2" alt="Placeholder"/>
   <figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>
 </figure>
 
-Gluten-free la croix activated charcoal tousled, brunch semiotics sartorial mustache hashtag. Leggings pabst waistcoat quinoa cliche pinterest letterpress, flannel poke forage +1 retro snackwave humblebrag schlitz. Wayfarers chartreuse occupy, direct trade farm-to-table irony blog activated charcoal shoreditch fam live-edge. Intelligentsia scenester gochujang gentrify portland offal. Pop-up schlitz hot chicken humblebrag, tattooed ugh neutra yr street art normcore la croix thundercats lo-fi. Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af. Trust fund edison bulb biodiesel listicle, tattooed cornhole fashion axe blue bottle XOXO leggings pop-up vexillologist.
+Evidentemente tengo mucho que decir sobre muchas cosas, quizas un mar de conocimiento de un centimetro de profundidad, y vamos a ver si la disciplina es suficiente para lograr lo que me estoy proponiendo ahora mismo como objetivo de este espacio.
 
-Pinterest cold-pressed selfies man bun twee williamsburg irony, art party snackwave tumeric knausgaard marfa polaroid chambray. PBR&B semiotics selvage brooklyn hexagon cray. Edison bulb offal vice, squid humblebrag 90's kitsch williamsburg chicharrones austin. Poke 3 wolf moon selfies banh mi farm-to-table raclette. +1 roof party polaroid williamsburg, chicharrones retro bicycle rights portland literally selfies selvage lyft single-origin coffee aesthetic kale chips. Blog yr la croix four loko beard. Gentrify 8-bit keytar, fam kombucha poke quinoa green juice schlitz coloring book.
+Vamos a ver que pasa con esto, pero por ahora bienvenidos y gracias por venir.
