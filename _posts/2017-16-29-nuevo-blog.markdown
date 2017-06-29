@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nuevo Blog
-date: 2017-06-01
+date: 2017-06-29
 categories:
   - Personal
 description: 
