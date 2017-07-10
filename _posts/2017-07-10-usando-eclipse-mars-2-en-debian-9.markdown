@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Nuevo Blog"
-date: 2017-06-29
+title: "Usando Eclipse Mars 2 en debian 9"
+date: 2017-07-10
 categories:
-  - Personal
+  - Tecnologia
+  - Java
 description: 
 image: https://unsplash.it/2000/1200?image=2
 image-sm: https://unsplash.it/500/300?image=2

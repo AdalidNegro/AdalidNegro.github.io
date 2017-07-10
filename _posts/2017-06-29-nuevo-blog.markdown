@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nuevo Blog
+title: "Nuevo Blog"
 date: 2017-06-29
 categories:
   - Personal
