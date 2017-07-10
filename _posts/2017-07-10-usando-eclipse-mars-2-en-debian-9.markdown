@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Usando Eclipse Mars 2 en debian 9"
+title: "Usando Eclipse Mars 2 en Debian 9 - Stretch"
 date: 2017-07-10
 categories:
   - Tecnologia
@@ -9,42 +9,68 @@ description:
 image: https://unsplash.it/2000/1200?image=2
 image-sm: https://unsplash.it/500/300?image=2
 ---
-Cada cierto tiempo dan ganas de nuevo de empezar a escribir para Internet, pero uno se pregunta, ¿quien carajos es Internet?. Acaso sea una bitacora de cosas que quiero tener a mano para recordar, pero ciertamente podria alguna cosa de las que hehecho aqui ser util para alguien mas en algun momento, y eso me hara sentir muy satisfecho, de no ser asi, quizas sea util para mi mismo en otra ocasion, cuando quizas necesite hacer algo que ya haya hecho en otro momento y pueda tenerlo aqui documentado, eso justificara mi tarea.
+A veces hay que solucionar problemas con software viejo, y para esto toca instalar software viejo, bueno, no tan viejo, pero cuando sales de tu zona de confort y te enfrentas a cosas diferentes, muchas veces puedes enredarte la vida tratando de solucionar problemas que realmente son pequeños. De este modo tuve que enfrentarme a configurar para su uso un Eclipse Mars sobre Debian, pero al instalarlo normalmente, no funcionaba el marketplace y otras funcionalidades.
 
+Despues de mucho buscar, encontre la solucion que comparto aqui.
 <ul>
-  <li>Escribire sobre politica y temas de actualidad que me interesen</li>
-  <li>Escribire sobre Debian y GNU/Linux en general</li>
-  <li>Escribire sobre tecnologia</li>
-  <li>Y pues cualquier otra cosa que se me ocurra</li>
+  <li>Instalar el software.</li>
+  <li>Editar el archivo de configuracion.</li>
+  <li>Crear el lanzador.</li>
+  <li>Y pues echar codigo</li>
 </ul>
 
-<ol>
-  <li>Escribire alguna pieza creativa, quizas algun intento literario</li>
-  <li>Escribire mas de tecnologia aun, guias para hacer mi propio trabajo</li>
-  <li>Quizas algo de critica de cine, musica o literatura</li>
-  <li>Por que no algo de fotografia</li>
-</ol>
+<h3>Instalar el software</h3>
+Los pasos para instalar el software son los pasos normales, ir ala pagina de Eclipse y buscar el archivo tar.gz donde viene el software listo, luego copiarlo en /opt/, descomprimirlo y ya esta!
 
-<h3>¿Por que leerme?</h3>
-Sin duda, si en lago podria estar de acuerdo es que no hay ningun motivo valido para leerme, no estoy seguro de que lo que tenga que decir resulte ineteresante en absoluto, sin embargo, yo me leere y quizas algun desocupado vagando en las anchas aguas de internet, quizas alguna persona con alguna duda tecnica que casualmente yo haya logrado resolver... en fin
-<figure>
-  <img src="https://unsplash.it/2000/1200?image=2" alt="Nuevo Blog"/>
-</figure>
+<h3>Editar el archivo de configuracion</h3>
+Esta es la parte central del asunto, hay que entrar en la carpeta /opt/eclipse y editar el archivo eclipse .ini que ortiginalmente es asi:
 
-Yo escribire, no para ser leido sino como un ejercicio consciente de trazabilidad en mi propia vida, quizas escriba un articulo sobre un tema tecnico y quien lo lea encontrara alli alguna informacion util quizas para resolver un problema similar, probablemente yo al leerme me acordare de mi situacion de vida en el momento de escribir cada una de esas lineas, asi que de cierto modo esto sera mi historia de vida.
+ :::bash
+ -startup
+ plugins/org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar
+ --launcher.library
+ plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.300.v20150602-1417
+ -product
+ org.eclipse.epp.package.jee.product
+ --launcher.defaultAction
+ openFile
+ -showsplash
+ org.eclipse.platform
+ --launcher.XXMaxPermSize
+ 256m
+ --launcher.defaultAction
+ openFile
+ --launcher.appendVmargs
+ -vmargs
+ -Dosgi.requiredJavaVersion=1.7
+ -XX:MaxPermSize=256m
+ -Xms256m
+ -Xmx10i24m
 
-<blockquote>
-  Si hubiera preguntado a mis clientes qué es lo que necesitaban, me hubieran dicho que un caballo más rápido
-  <cite>Henry Ford</cite>
-</blockquote>
+Y debemos dejarlo asi:
 
-<h4>¿Quien escribe esto?</h4>
-Mi nombre es Said Fayad, trabajo actualmente como Gestor de configuraciones en una multinacional llamada Stefanini, me han gustado en la vida algunas cosas, entre ellas las mujeres, GNU/Linux, los sistemas, el desarrollo de software, los videojuegos, las mujeres, el ciclismo, el tenis, la literatura, las mujeres, el cine, la politica, la musica, la guitarra, las mujeres, nadar, la buena comida, la mala a ratos tambien, el anime, las series y quizas se me olvida algo...
-<figure>
-  <img src="https://unsplash.it/2000/1200?image=2" alt="Placeholder"/>
-  <figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>
-</figure>
 
-Evidentemente tengo mucho que decir sobre muchas cosas, quizas un mar de conocimiento de un centimetro de profundidad, y vamos a ver si la disciplina es suficiente para lograr lo que me estoy proponiendo ahora mismo como objetivo de este espacio.
+ :::bash
+ -startup
+ plugins/org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar
+ --launcher.library
+ plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.300.v20150602-1417
+ -product
+ org.eclipse.epp.package.jee.product
+ --launcher.GTK_version
+ 2
+ openFile
+ -showsplash
+ org.eclipse.platform
+ --launcher.XXMaxPermSize
+ 256m
+ --launcher.GTK_version
+ 2
+ openFile
+ --launcher.appendVmargs
+ -vmargs
+ -Dosgi.requiredJavaVersion=1.7
+ -XX:MaxPermSize=256m
+ -Xms256m
+ -Xmx10i24m
 
-Vamos a ver que pasa con esto, pero por ahora bienvenidos y gracias por venir.
