@@ -26,7 +26,6 @@ Los pasos para instalar el software son los pasos normales, ir ala pagina de Ecl
 Esta es la parte central del asunto, hay que entrar en la carpeta /opt/eclipse y editar el archivo eclipse .ini que ortiginalmente es asi:
 
 ~~~
-:::bash
 -startup
 plugins/org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar
 --launcher.library
@@ -52,7 +51,6 @@ openFile
 Y debemos dejarlo asi:
 
 ~~~
-:::bash
 -startup
 plugins/org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar
 --launcher.library
